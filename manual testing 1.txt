@@ -1,0 +1,14 @@
+
+
+9.10  test cases for the Spice Jet application:
+
+1. Verify that the user is able to successfully log in with valid credentials.
+2. Verify that the user is not able to log in with invalid credentials.
+3. Verify that the user is able to search for flights and view available options.
+4. Verify that the user is able to select a flight and proceed to the payment page.
+5. Verify that the user is able to complete a booking and receive a confirmation.
+6. Verify that the user is able to view their booking details and make changes if necessary.
+7. Verify that the user is able to cancel a booking and receive a refund.
+8. Verify that the user is able to view their flight itinerary and check-in for their flight.
+9. Verify that the user is able to view their flight status and receive updates if there are any changes.
+10. Verify that the application is able to handle errors gracefully, such as if there is a connectivity issue or if a payment transaction fails.

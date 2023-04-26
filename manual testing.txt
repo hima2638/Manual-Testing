@@ -1,0 +1,77 @@
+8. 10 test cases for the IRCTC web application:
+
+1. Test Case Name: Login Page Validation
+Test Steps:
+- Navigate to the IRCTC web application.
+- Enter a valid username and an invalid password.
+- Verify that the error message "Invalid username or password" is displayed.
+
+2. Test Case Name: Train Ticket Booking
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the train ticket booking section.
+- Enter valid source and destination stations.
+- Select a valid date for the journey.
+- Verify that the available trains for the selected route are displayed.
+
+3. Test Case Name: Train Schedule Checking
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the train schedule section.
+- Enter a valid train number.
+- Verify that the train schedule is displayed for the selected train number.
+
+4. Test Case Name: Seat Availability Checking
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the seat availability section.
+- Enter valid source and destination stations.
+- Select a valid date for the journey.
+- Verify that the available seats for the selected route are displayed.
+
+5. Test Case Name: Cancel Ticket
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the cancel ticket section.
+- Enter the PNR number of a booked ticket.
+- Verify that the details of the booked ticket are displayed.
+- Confirm the cancellation of the ticket.
+
+6. Test Case Name: Payment Gateway
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the train ticket booking section.
+- Enter valid source and destination stations.
+- Select a valid date for the journey.
+- Enter valid passenger details.
+- Choose a payment method.
+- Verify that the payment gateway is secure and user-friendly.
+
+7. Test Case Name: Train Arrival and Departure Enquiry
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the train enquiry section.
+- Enter a valid train number.
+- Verify that the arrival and departure timings for the selected train are displayed.
+
+8. Test Case Name: Train Fare Enquiry
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the train fare enquiry section.
+- Enter valid source and destination stations.
+- Select a valid date for the journey.
+- Verify that the fare details for the selected route are displayed.
+
+9. Test Case Name: Train Route Enquiry
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the train enquiry section.
+- Enter a valid train number.
+- Verify that the route map for the selected train is displayed.
+
+10. Test Case Name: User Profile Update
+Test Steps:
+- Log in to the IRCTC web application.
+- Navigate to the user profile section.
+- Update the user details such as name, address, phone number, etc.
+- Verify that the updated details are saved successfully.
